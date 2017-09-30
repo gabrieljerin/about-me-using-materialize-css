@@ -103,7 +103,7 @@
             </div>
         </div>
         <div class="fixed-action-btn horizontal">
-            <a class="btn-floating btn-large waves-effect waves-light red upward" onclick="goTop(this)">
+            <a class="btn-floating btn-large waves-effect waves-light hide red upward" onclick="goTop(this)">
                 <i class="large material-icons">arrow_upward</i>
             </a>
         </div>

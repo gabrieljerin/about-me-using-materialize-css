@@ -39,9 +39,11 @@ $(document).ready(function(){
   
     $(window).scroll(function () {
             if ($(this).scrollTop() > 50) {
+                $(".upward").removeClass('hide');
                 $(".upward").fadeIn();
             } else {
                 $(".upward").fadeOut();
+                $(".upward").addClass('hide');
             }
         });
         // scroll body to 0px on click
