@@ -12,7 +12,7 @@
                     <li><a href="#">Hobbies</a></li>
                 </ul>
                 <ul class="side-nav side-nav-cls" id="mobile-demo">
-                    <li><a href="#overview">An Overview</a></li>
+                    <li><a onclick="goTop(this)">An Overview</a></li>
                     <li><a href="#skill">Technical Skills</a></li>
                     <li><a href="#">Portfolio</a></li>
                     <li><a href="#">Qualifications</a></li>
@@ -30,9 +30,9 @@
                     <div class="background">
                         <img src="image/mat1.jpg" class="nav-background-img">
                     </div>
-                    <a href="#!user"><img class="circle" src="image/DSC00003.JPG"></a>
-                    <a href="#!name"><span class="white-text name">Alex Oommen</span></a>
-                    <a href="#!email"><span class="white-text email">jerin_alex@hotmail.com</span></a>
+                    <a><img class="circle" src="image/DSC00003.JPG"></a>
+                    <a><span class="white-text name">Alex Oommen</span></a>
+                    <a><span class="white-text email">jerin_alex@hotmail.com</span></a>
                 </div></li>
             <li><a class="subheader"><i class="fa fa-address-card" aria-hidden="true"></i>Address</a></li>
             <li><div class="divider"></div></li>
