@@ -5,15 +5,15 @@
             <div class="nav-wrapper">
                 <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down horizontal-menu-cls">
-                    <li><a href="#overview">An Overview</a></li>
-                    <li><a href="#">Technical Skills</a></li>
+                    <li><a onclick="goTop(this)">An Overview</a></li>
+                    <li><a href="#skill">Technical Skills</a></li>
                     <li><a href="#">Portfolio</a></li>
                     <li><a href="#">Qualifications</a></li>
                     <li><a href="#">Hobbies</a></li>
                 </ul>
                 <ul class="side-nav side-nav-cls" id="mobile-demo">
                     <li><a href="#overview">An Overview</a></li>
-                    <li><a href="#">Technical Skills</a></li>
+                    <li><a href="#skill">Technical Skills</a></li>
                     <li><a href="#">Portfolio</a></li>
                     <li><a href="#">Qualifications</a></li>
                     <li><a href="#">Hobbies</a></li>

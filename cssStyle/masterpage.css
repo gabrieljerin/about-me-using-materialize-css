@@ -38,11 +38,29 @@ and open the template in the editor.
     font-size: 36px !important;
 }
 .content-1{
-    padding: 18px;
+    padding: 2px;
 }
 .content-1 > h3{
     color: white;
+    text-align: center;
+    font-family: Raleway-Regular;
 }
 .content-1 ol > li{
     color: white;
+}
+.content-2 > h3{
+    color: white;
+    text-align: center;
+    font-family: Raleway-Regular;
+}
+.lan-icon{
+    font-size: 25px;
+}
+#skill{
+    outline: none;
+}
+#skill:before{
+    content:' ' !important;
+    display: block !important;
+    height: 50px !important;
 }
