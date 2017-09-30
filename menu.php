@@ -38,8 +38,8 @@
             <li><div class="divider"></div></li>
             <div class="address">
                 <p>VELLAVIL HOUSE, MADAPPALLY P.O</p>
-                <p>CHANGANACHERRY,KOTTAYAM</p>
-                <p>KERALA,INDIA</p>
+                <p>CHANGANACHERRY, KOTTAYAM</p>
+                <p>KERALA, INDIA</p>
                 <p>PIN-686546</p>
                 <p>PHONE: 9656332581</p>
             </div>
