@@ -19,9 +19,9 @@ and open the template in the editor.
     margin-top: 8px;
 }
 .img-1{
-   background-image: url(../image/jim-rhoades-287664.jpg); 
-   background-repeat: no-repeat;
-   background-size: cover;
+    background-image: url(../image/jim-rhoades-287664.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .img-2{
     background-image: url(../image/jessie-bell-16912.jpg);
@@ -54,7 +54,8 @@ and open the template in the editor.
     font-family: Raleway-Regular;
 }
 .lan-icon{
-    font-size: 25px;
+    font-size: 32px;
+    text-align: center;
 }
 #skill{
     outline: none;
@@ -63,4 +64,8 @@ and open the template in the editor.
     content:' ' !important;
     display: block !important;
     height: 50px !important;
+}
+.heading-cls{
+    font-size: 33px;
+    color: white;
 }
