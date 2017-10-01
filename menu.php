@@ -30,7 +30,7 @@
                     <div class="background">
                         <img src="image/mat1.jpg" class="nav-background-img">
                     </div>
-                    <a><img class="circle" src="image/DSC00003.JPG"></a>
+                    <a><img class="circle materialboxed" src="image/myself.jpeg"></a>
                     <a><span class="white-text name">Alex Oommen</span></a>
                     <a><span class="white-text email">jerin_alex@hotmail.com</span></a>
                 </div></li>
