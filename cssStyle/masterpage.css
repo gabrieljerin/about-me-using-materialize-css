@@ -47,16 +47,18 @@ and open the template in the editor.
 }
 .content-1 ol > li{
     color: white;
-}
-.content-2 > h3,span{
-    color: white;
-    text-align: center;
     font-family: Raleway-Regular;
+    font-size: 16px;
 }
-.content-3 > h3,span{
+.content-2 > h3{
     color: white;
-    text-align: center;
     font-family: Raleway-Regular;
+    text-align: center;
+}
+.content-3 > h3{
+    color: white;
+    font-family: Raleway-Regular;
+    text-align: center;
 }
 .lan-icon{
     font-size: 20px;
@@ -89,4 +91,7 @@ and open the template in the editor.
 }
 .p-i-cls{
     font-size: 25px;
+}
+.teal-div-cls{
+    padding: 10px !important;
 }

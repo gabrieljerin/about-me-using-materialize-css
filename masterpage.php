@@ -37,7 +37,7 @@
                 <div class="content-2">
                     <h3>Technical Skill</h3>
                     <div class="row">
-                        <div class="col s12 teal darken-3">
+                        <div class="col s12 teal darken-3 teal-div-cls">
                             <span class="heading-cls"><i class="fa fa-language" aria-hidden="true"></i>&nbsp;Languages</span>
                             <div class="row">
                                 <div class="col s12 m6 l3 animatedParent">
@@ -72,7 +72,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col s12 teal darken-3">
+                        <div class="col s12 teal darken-3 teal-div-cls">
                             <span class="heading-cls"><i class="fa fa-star" aria-hidden="true"></i>&nbsp;Skills</span>
                             <div class="row">
                                 <div class="col s12 m6 l3 animatedParent">
@@ -153,7 +153,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col s12 teal darken-3">
+                        <div class="col s12 teal darken-3 teal-div-cls">
                             <span class="heading-cls"><i class="icon-database"></i>&nbsp;Database</span>
                             <div class="row">
                                 <div class="col s12 m6 l6 animatedParent">
@@ -174,7 +174,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col s12 teal darken-3">
+                        <div class="col s12 teal darken-3 teal-div-cls">
                             <span class="heading-cls"><i class="fa fa-desktop"></i>&nbsp;Operating System</span>
                             <div class="row">
                                 <div class="col s12 m6 l6 animatedParent">
@@ -201,7 +201,7 @@
                 <div class="content-3">
                     <h3>Portfolio</h3>
                     <div class="row">
-                        <div class="col s12 teal darken-3 txt-align-span">
+                        <div class="col s12 teal darken-3 txt-align-span teal-div-cls">
                             <div class="row">
                                 <div class="col s12 animatedParent">
                                     <span class="heading-cls">Sign in and Sign up using Firebase Auth</span>
@@ -218,33 +218,33 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col s12 animatedParent">
-                                <span class="heading-cls">My CV as a website using Materialize css.</span>
-                                <div class="card horizontal grey darken-2">
-                                    <div class="card-stacked">
-                                        <div class="card-content white-text">
-                                            <p class="p-text">
-                                                My new website using materializecss framework.
-                                            </p>
-                                        </div>
-                                        <div class="card-action">
-                                            <a href="https://github.com/gabrieljerin/about-me-using-materialize-css"><i class="fa fa-github p-i-cls"></i>https://github.com/gabrieljerin/about-me-using-materialize-css</a>
+                                <div class="col s12 animatedParent">
+                                    <span class="heading-cls">My CV as a website using Materialize css.</span>
+                                    <div class="card horizontal grey darken-2">
+                                        <div class="card-stacked">
+                                            <div class="card-content white-text">
+                                                <p class="p-text">
+                                                    My new website using materializecss framework.
+                                                </p>
+                                            </div>
+                                            <div class="card-action">
+                                                <a href="https://github.com/gabrieljerin/about-me-using-materialize-css"><i class="fa fa-github p-i-cls"></i>https://github.com/gabrieljerin/about-me-using-materialize-css</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col s12 animatedParent">
-                                <span class="heading-cls">A Sign in Form</span>
-                                <div class="card horizontal grey darken-2">
-                                    <div class="card-stacked">
-                                        <div class="card-content white-text">
-                                            <p class="p-text">
-                                                A simple Sign in form using Html, css, Bootstrap, Php.
-                                            </p>
-                                        </div>
-                                        <div class="card-action">
-                                            <a href="https://github.com/gabrieljerin/sign-in-form"><i class="fa fa-github p-i-cls"></i>https://github.com/gabrieljerin/sign-in-form</a>
+                                <div class="col s12 animatedParent">
+                                    <span class="heading-cls">A Sign in Form</span>
+                                    <div class="card horizontal grey darken-2">
+                                        <div class="card-stacked">
+                                            <div class="card-content white-text">
+                                                <p class="p-text">
+                                                    A simple Sign in form using Html, css, Bootstrap, Php.
+                                                </p>
+                                            </div>
+                                            <div class="card-action">
+                                                <a href="https://github.com/gabrieljerin/sign-in-form"><i class="fa fa-github p-i-cls"></i>https://github.com/gabrieljerin/sign-in-form</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -256,7 +256,7 @@
         </div>
     </div>
     <div class="fixed-action-btn horizontal">
-        <a class="btn-floating btn-large waves-effect waves-light hide green darken-1 upward" onclick="goTop(this)">
+        <a class="btn-floating waves-effect waves-light hide green darken-1 upward" onclick="goTop(this)">
             <i class="large material-icons">arrow_upward</i>
         </a>
     </div>
