@@ -40,28 +40,28 @@
                         <div class="col s12 teal darken-3">
                             <span class="heading-cls"><i class="fa fa-language" aria-hidden="true"></i>&nbsp;Languages</span>
                             <div class="row">
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-csharp"></i>.Net</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-php-alt"></i>Php</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-javascript"></i>Javascript</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-java"></i>Core Java</p>
@@ -75,28 +75,28 @@
                         <div class="col s12 teal darken-3">
                             <span class="heading-cls"><i class="fa fa-star" aria-hidden="true"></i>&nbsp;Skills</span>
                             <div class="row">
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-html5-alt"></i>Html</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-css3-alt"></i>Css</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-jquery"></i>jquery</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-bootstrap"></i>Bootstrap</p>
@@ -105,28 +105,28 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon">Ajax</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon">PDO</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon">Slim</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l3">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon">NOTORM</p>
@@ -135,14 +135,14 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col s12 m6 l6">
+                                <div class="col s12 m6 l6 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-mysql-alt"></i>Mysql</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l6">
+                                <div class="col s12 m6 l6 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-mysql-alt"></i>Mysqli</p>
@@ -156,14 +156,14 @@
                         <div class="col s12 teal darken-3">
                             <span class="heading-cls"><i class="icon-database-alt"></i>&nbsp;Database</span>
                             <div class="row">
-                                <div class="col s12 m6 l6">
+                                <div class="col s12 m6 l6 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-mssql"></i>Microsoft Sql Server</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l6">
+                                <div class="col s12 m6 l6 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-mysql"></i>Mysql</p>
@@ -177,14 +177,14 @@
                         <div class="col s12 teal darken-3">
                             <span class="heading-cls"><i class="fa fa-desktop"></i>&nbsp;Operating System</span>
                             <div class="row">
-                                <div class="col s12 m6 l6">
+                                <div class="col s12 m6 l6 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="fa fa-windows"></i>Windows 7,8.1,10</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l6">
+                                <div class="col s12 m6 l6 animatedParent">
                                     <div class="card red">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-ubuntu"></i>Ubuntu</p>

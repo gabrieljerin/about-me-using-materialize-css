@@ -55,14 +55,17 @@ $(document).ready(function () {
         }, 1000);
         return false;
     });
-     $('.carousel').carousel({
-        padding: 200,
-        fullWidth: true
-    });
     setTimeout(autoplay, 2000);
     $('.button-collapse').sideNav();
-    $(".loader").fadeOut('slow');
-    $(".main-wrapper").fadeIn('slow');
+    $(".card").addClass('animated');
+    $(".card").addClass('fadeInLeft');
+    $(".loader").fadeOut(3000, function () {
+        $(".main-wrapper").fadeIn(1000);
+        $('.carousel').carousel({
+            padding: 200,
+            fullWidth: true
+        });
+    });
 });
 function goTop(dom)
 {
