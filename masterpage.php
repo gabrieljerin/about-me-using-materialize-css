@@ -213,7 +213,7 @@
                                                 </p>
                                             </div>
                                             <div class="card-action">
-                                                <a href="https://github.com/gabrieljerin/signIn-or-signUp-using-Firebase"><i class="fa fa-github p-i-cls"></i>https://github.com/gabrieljerin/signIn-or-signUp-using-Firebase</a>
+                                                <a href="https://github.com/gabrieljerin/signIn-or-signUp-using-Firebase"><i class="fa fa-github p-i-cls"></i>&nbsp;https://github.com/gabrieljerin/signIn-or-signUp-using-Firebase</a>
                                             </div>
                                         </div>
                                     </div>
@@ -224,11 +224,11 @@
                                         <div class="card-stacked">
                                             <div class="card-content white-text">
                                                 <p class="p-text">
-                                                    My new website using materializecss framework.
+                                                    My new website using Materialize css Framework.
                                                 </p>
                                             </div>
                                             <div class="card-action">
-                                                <a href="https://github.com/gabrieljerin/about-me-using-materialize-css"><i class="fa fa-github p-i-cls"></i>https://github.com/gabrieljerin/about-me-using-materialize-css</a>
+                                                <a href="https://github.com/gabrieljerin/about-me-using-materialize-css"><i class="fa fa-github p-i-cls"></i>&nbsp;https://github.com/gabrieljerin/about-me-using-materialize-css</a>
                                             </div>
                                         </div>
                                     </div>
@@ -243,7 +243,7 @@
                                                 </p>
                                             </div>
                                             <div class="card-action">
-                                                <a href="https://github.com/gabrieljerin/sign-in-form"><i class="fa fa-github p-i-cls"></i>https://github.com/gabrieljerin/sign-in-form</a>
+                                                <a href="https://github.com/gabrieljerin/sign-in-form"><i class="fa fa-github p-i-cls"></i>&nbsp;https://github.com/gabrieljerin/sign-in-form</a>
                                             </div>
                                         </div>
                                     </div>
@@ -252,7 +252,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div><br />
+            <div class="divider"></div>
         </div>
     </div>
     <div class="fixed-action-btn horizontal">

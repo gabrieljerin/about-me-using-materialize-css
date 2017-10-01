@@ -66,7 +66,7 @@ and open the template in the editor.
     font-family: Raleway-Regular;
 }
 .p-text{
-    font-size: 20px;
+    font-size: 17px;
     font-family: Raleway-Regular;
 }
 #skill{
@@ -88,6 +88,7 @@ and open the template in the editor.
 .heading-cls{
     font-size: 21px;
     color: white;
+    font-family: Raleway-Regular
 }
 .p-i-cls{
     font-size: 25px;
