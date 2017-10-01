@@ -48,16 +48,29 @@ and open the template in the editor.
 .content-1 ol > li{
     color: white;
 }
-.content-2 > h3{
+.content-2 > h3,span{
+    color: white;
+    text-align: center;
+    font-family: Raleway-Regular;
+}
+.content-3 > h3,span{
     color: white;
     text-align: center;
     font-family: Raleway-Regular;
 }
 .lan-icon{
-    font-size: 32px;
+    font-size: 20px;
     text-align: center;
+    font-family: Raleway-Regular;
+}
+.p-text{
+    font-size: 20px;
+    font-family: Raleway-Regular;
 }
 #skill{
+    outline: none;
+}
+#portfolio{
     outline: none;
 }
 #skill:before{
@@ -65,7 +78,15 @@ and open the template in the editor.
     display: block !important;
     height: 50px !important;
 }
+#portfolio:before{
+    content:' ' !important;
+    display: block !important;
+    height: 50px !important;
+}
 .heading-cls{
-    font-size: 33px;
+    font-size: 21px;
     color: white;
+}
+.p-i-cls{
+    font-size: 25px;
 }

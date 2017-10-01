@@ -7,14 +7,14 @@
                 <ul class="right hide-on-med-and-down horizontal-menu-cls">
                     <li><a onclick="goTop(this)">An Overview</a></li>
                     <li><a href="#skill">Technical Skills</a></li>
-                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
                     <li><a href="#">Qualifications</a></li>
                     <li><a href="#">Hobbies</a></li>
                 </ul>
                 <ul class="side-nav side-nav-cls" id="mobile-demo">
                     <li><a onclick="goTop(this)">An Overview</a></li>
                     <li><a href="#skill">Technical Skills</a></li>
-                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
                     <li><a href="#">Qualifications</a></li>
                     <li><a href="#">Hobbies</a></li>
                 </ul>
