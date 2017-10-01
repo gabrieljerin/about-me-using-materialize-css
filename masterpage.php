@@ -198,7 +198,7 @@
             </div>
         </div>
         <div class="fixed-action-btn horizontal">
-            <a class="btn-floating btn-large waves-effect waves-light hide grey darken-1 upward" onclick="goTop(this)">
+            <a class="btn-floating btn-large waves-effect waves-light hide green darken-1 upward" onclick="goTop(this)">
                 <i class="large material-icons">arrow_upward</i>
             </a>
         </div>
