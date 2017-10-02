@@ -60,6 +60,11 @@ and open the template in the editor.
     font-family: Raleway-Regular;
     text-align: center;
 }
+.content-4 > h3{
+    color: white;
+    font-family: Raleway-Regular;
+    text-align: center;
+}
 .lan-icon{
     font-size: 20px;
     text-align: center;
@@ -69,10 +74,7 @@ and open the template in the editor.
     font-size: 17px;
     font-family: Raleway-Regular;
 }
-#skill{
-    outline: none;
-}
-#portfolio{
+#skill,#qualification,#portfolio,#footer{
     outline: none;
 }
 #skill:before{
@@ -85,14 +87,31 @@ and open the template in the editor.
     display: block !important;
     height: 50px !important;
 }
+#qualification:before{
+    content:' ' !important;
+    display: block !important;
+    height: 50px !important;
+}
 .heading-cls{
     font-size: 21px;
     color: white;
-    font-family: Raleway-Regular
+    font-family: Raleway-Regular;
 }
 .p-i-cls{
     font-size: 25px;
 }
 .teal-div-cls{
     padding: 10px !important;
+}
+.qal-tbl-font{
+    font-family: Raleway-Regular;
+}
+.footer-background-cls{
+    background-color: #24292E !important;
+}
+.footer-copyright-cls{
+    background-color: #21262A !important;
+}
+#facebook:hove{
+    
 }

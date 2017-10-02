@@ -4,19 +4,21 @@
         <div class="container">
             <div class="nav-wrapper">
                 <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
-                <ul class="right hide-on-med-and-down horizontal-menu-cls">
+                <ul class="right hide-on-med-and-down">
                     <li><a onclick="goTop(this)">An Overview</a></li>
                     <li><a href="#skill">Technical Skills</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#">Qualifications</a></li>
-                    <li><a href="#">Hobbies</a></li>
+                    <li><a href="#">Organisational Scan</a></li>
+                    <li><a href="#qualification">Qualifications</a></li>
+                    <li><a href="#footer">Stay Connected</a></li>
                 </ul>
                 <ul class="side-nav side-nav-cls" id="mobile-demo">
                     <li><a onclick="goTop(this)">An Overview</a></li>
                     <li><a href="#skill">Technical Skills</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#">Qualifications</a></li>
-                    <li><a href="#">Hobbies</a></li>
+                    <li><a href="#">Organisational Scan</a></li>
+                    <li><a href="#qualification">Qualifications</a></li>
+                    <li><a href="#footer">Stay Connected</a></li>
                 </ul>
             </div>
         </div>

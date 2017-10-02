@@ -254,12 +254,123 @@
                 </div>
             </div><br />
             <div class="divider"></div>
+            <div id="qualification">
+                <div class="content-4">
+                    <h3>Qualifications</h3>
+                    <div class="row">
+                        <div class="col s12 teal darken-3 txt-align-span teal-div-cls">
+                            <div class="row">
+                                <div class="col s12 animatedParent">
+                                    <div class="card grey darken-2 animated fadeInLeft">
+                                        <div class="card-content white-text">
+                                            <table class="responsive-table centered qal-tbl-font">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Course</th>
+                                                        <th>Institute</th>
+                                                        <th>Board</th>
+                                                        <th>Marks(%)/Grade</th>
+                                                        <th>Year of pass out</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>Bsc(IT)</td>
+                                                        <td>NIIT</td>
+                                                        <td>Kuvempu University(Karnataka)</td>
+                                                        <td>57</td>
+                                                        <td>2015</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Java-Android</td>
+                                                        <td>C-DAC</td>
+                                                        <td>C-DAC</td>
+                                                        <td>A</td>
+                                                        <td>2016</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>12th</td>
+                                                        <td>De.Paul College Kannur</td>
+                                                        <td>Kerala State</td>
+                                                        <td>66</td>
+                                                        <td>2011</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>10th</td>
+                                                        <td>St.John The Baptist’s School</td>
+                                                        <td>CBSE</td>
+                                                        <td>54</td>
+                                                        <td>2008</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
         </div>
     </div>
     <div class="fixed-action-btn horizontal">
         <a class="btn-floating waves-effect waves-light hide green darken-1 upward" onclick="goTop(this)">
             <i class="large material-icons">arrow_upward</i>
         </a>
+    </div>
+    <!--footer-->
+    <div id="footer">
+        <footer class="page-footer footer-background-cls">
+            <div class="container">
+                <div class="row">
+                    <div class="col l6 s12">
+                        <h5 class="white-text qal-tbl-font">Email Me</h5>
+                        <div class="row">
+                            <form class="col s12">
+                                <div class="row">
+                                    <div class="input-field col s6">
+                                        <input id="first_name" type="text" class="validate">
+                                        <label for="first_name">First Name</label>
+                                    </div>
+                                    <div class="input-field col s6">
+                                        <input id="last_name" type="text" class="validate">
+                                        <label for="last_name">Last Name</label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="input-field col s12">
+                                        <input id="email" type="email" class="validate">
+                                        <label for="email">Email</label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="input-field col s12">
+                                        <textarea id="textarea1" class="materialize-textarea"></textarea>
+                                        <label for="textarea1">Message</label>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col l4 offset-l2 s12">
+                        <h5 class="white-text qal-tbl-font">Socials</h5>
+                        <ul>
+                            <li><a class="btn-floating indigo waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-facebook-square"></i></a></li><br />
+                            <li><a class="btn-floating red darken-1 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-google-plus-circle"></i></a></li><br />
+                            <li><a class="btn-floating grey darken-1 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-github"></i></a></li><br />
+                            <li><a class="btn-floating blue lighten-1 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-linkedin-square"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-copyright footer-copyright-cls">
+                <div class="container">
+                    © 2017 Copyright Text
+                    <a class="grey-text text-lighten-4 right">Version 0.1</a>
+                </div>
+            </div>
+        </footer>
     </div>
 </body>
 </html>
