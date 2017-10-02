@@ -311,11 +311,12 @@
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div> <br />
+            <div class="divider"></div>
         </div>
     </div>
     <div class="fixed-action-btn horizontal">
-        <a class="btn-floating waves-effect waves-light hide green darken-1 upward" onclick="goTop(this)">
+        <a class="btn-floating waves-effect waves-light hide green darken-2 upward" onclick="goTop(this)">
             <i class="large material-icons">arrow_upward</i>
         </a>
     </div>
@@ -357,8 +358,8 @@
                         <h5 class="white-text qal-tbl-font">Socials</h5>
                         <ul>
                             <li><a class="btn-floating indigo waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-facebook-square"></i></a></li><br />
-                            <li><a class="btn-floating red darken-1 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-google-plus-circle"></i></a></li><br />
-                            <li><a class="btn-floating grey darken-1 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-github"></i></a></li><br />
+                            <li><a class="btn-floating red darken-2 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-google-plus-circle"></i></a></li><br />
+                            <li><a class="btn-floating grey darken-2 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-github"></i></a></li><br />
                             <li><a class="btn-floating blue lighten-1 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-linkedin-square"></i></a></li>
                         </ul>
                     </div>

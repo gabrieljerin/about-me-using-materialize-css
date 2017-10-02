@@ -92,6 +92,11 @@ and open the template in the editor.
     display: block !important;
     height: 50px !important;
 }
+#footer:before{
+    content:' ' !important;
+    display: block !important;
+    height: 50px !important;
+}
 .heading-cls{
     font-size: 21px;
     color: white;
@@ -111,7 +116,4 @@ and open the template in the editor.
 }
 .footer-copyright-cls{
     background-color: #21262A !important;
-}
-#facebook:hove{
-    
 }
