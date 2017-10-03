@@ -254,6 +254,34 @@
                 </div>
             </div><br />
             <div class="divider"></div>
+            <div id="scan">
+                <div class="content-scan">
+                    <h3>Organisational Scan</h3>
+                    <div class="row">
+                        <div class="col s12 teal darken-3 txt-align-span teal-div-cls">
+                            <div class="row">
+                                <div class="col s12 animatedParent">
+                                    <span class="heading-cls"><b>Since March 08 2016:</b> Sookshmatech Integral Techno Solution Pvt Ltd, as Software Engineer.</span>
+                                    <div class="card horizontal grey darken-2">
+                                        <div class="card-stacked">
+                                            <div class="card-content white-text">
+                                                <h5><u>PROJECT</u></h5>
+                                                <p class="p-text">
+                                                    <b>TourBeetle:</b> TourBeetle is a web application which helps tour operators to mange their
+                                                    clients effectively. The main objective of TourBeetle was to bring in disruptive change
+                                                    in tour operator’s operation through right technology implementation. Technologies
+                                                    implemented in TourBeetle are HTML, Jquery, Css and PHP.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><br />
+            <div class="divider"></div>
             <div id="qualification">
                 <div class="content-4">
                     <h3>Qualifications</h3>
@@ -273,7 +301,7 @@
                                                         <th>Year of pass out</th>
                                                     </tr>
                                                 </thead>
-                                                <tbody class="qal-tbl-color">
+                                                <tbody>
                                                     <tr>
                                                         <td>Bsc(IT)</td>
                                                         <td>NIIT</td>

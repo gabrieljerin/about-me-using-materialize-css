@@ -8,7 +8,7 @@
                     <li><a onclick="goTop(this)">An Overview</a></li>
                     <li><a href="#skill">Technical Skills</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#">Organisational Scan</a></li>
+                    <li><a href="#scan">Organisational Scan</a></li>
                     <li><a href="#qualification">Qualifications</a></li>
                     <li><a href="#footer">Stay Connected</a></li>
                 </ul>
@@ -16,7 +16,7 @@
                     <li><a onclick="goTop(this)">An Overview</a></li>
                     <li><a href="#skill">Technical Skills</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#">Organisational Scan</a></li>
+                    <li><a href="#scan">Organisational Scan</a></li>
                     <li><a href="#qualification">Qualifications</a></li>
                     <li><a href="#footer">Stay Connected</a></li>
                 </ul>
