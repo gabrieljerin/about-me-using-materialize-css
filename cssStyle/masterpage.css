@@ -111,6 +111,9 @@ and open the template in the editor.
 .qal-tbl-font{
     font-family: Raleway-Regular;
 }
+.qal-tbl-color{
+    color:#FEAA40 !important;
+}
 .footer-background-cls{
     background-color: #24292E !important;
 }

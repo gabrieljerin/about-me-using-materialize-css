@@ -273,7 +273,7 @@
                                                         <th>Year of pass out</th>
                                                     </tr>
                                                 </thead>
-                                                <tbody>
+                                                <tbody class="qal-tbl-color">
                                                     <tr>
                                                         <td>Bsc(IT)</td>
                                                         <td>NIIT</td>
@@ -327,8 +327,8 @@
                 <div class="row">
                     <div class="col l6 s12">
                         <h5 class="white-text qal-tbl-font">Email Me</h5>
-                        <div class="row">
-                            <form class="col s12">
+                        <div class="row animatedParent">
+                            <form class="col s12 animated fadeInLeft">
                                 <div class="row">
                                     <div class="input-field col s6">
                                         <input id="first_name" type="text" class="validate">
@@ -351,12 +351,17 @@
                                         <label for="textarea1">Message</label>
                                     </div>
                                 </div>
+                                <div class="row">
+                                    <div class="col s12 m3 l2">
+                                        <button type="button" class="btn waves-effect waves-light blue">Submit</button>
+                                    </div>
+                                </div>
                             </form>
                         </div>
                     </div>
-                    <div class="col l4 offset-l2 s12">
+                    <div class="col l4 offset-l2 s12 animatedParent">
                         <h5 class="white-text qal-tbl-font">Socials</h5>
-                        <ul>
+                        <ul class="animated fadeInUp">
                             <li><a class="btn-floating indigo waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-facebook-square"></i></a></li><br />
                             <li><a class="btn-floating red darken-2 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-google-plus-circle"></i></a></li><br />
                             <li><a class="btn-floating grey darken-2 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-github"></i></a></li><br />
