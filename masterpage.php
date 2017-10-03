@@ -135,17 +135,31 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col s12 m6 l6 animatedParent">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card grey darken-2">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-mysql-alt"></i>Mysql</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col s12 m6 l6 animatedParent">
+                                <div class="col s12 m6 l3 animatedParent">
                                     <div class="card grey darken-2">
                                         <div class="card-content white-text">
                                             <p class="lan-icon"><i class="icon-mysql-alt"></i>Mysqli</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col s12 m6 l3 animatedParent">
+                                    <div class="card grey darken-2">
+                                        <div class="card-content white-text">
+                                            <p class="lan-icon">XML</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col s12 m6 l3 animatedParent">
+                                    <div class="card grey darken-2">
+                                        <div class="card-content white-text">
+                                            <p class="lan-icon">json</p>
                                         </div>
                                     </div>
                                 </div>
