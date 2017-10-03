@@ -159,7 +159,7 @@
                                 <div class="col s12 m6 l3 animatedParent">
                                     <div class="card grey darken-2">
                                         <div class="card-content white-text">
-                                            <p class="lan-icon">json</p>
+                                            <p class="lan-icon">JSON</p>
                                         </div>
                                     </div>
                                 </div>
