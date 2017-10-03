@@ -194,7 +194,7 @@
                                 <div class="col s12 m6 l6 animatedParent">
                                     <div class="card grey darken-2">
                                         <div class="card-content white-text">
-                                            <p class="lan-icon"><i class="fa fa-windows"></i>Windows 7,8.1,10</p>
+                                            <p class="lan-icon"><i class="fa fa-windows"></i>Windows 7, 8.1, 10</p>
                                         </div>
                                     </div>
                                 </div>
