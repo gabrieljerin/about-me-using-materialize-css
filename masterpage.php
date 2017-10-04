@@ -406,7 +406,7 @@
                         <ul class="animated fadeInUp">
                             <li><a class="btn-floating indigo waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-facebook-square"></i></a></li><br />
                             <li><a class="btn-floating red darken-2 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-google-plus-circle"></i></a></li><br />
-                            <li><a class="btn-floating grey darken-2 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-github"></i></a></li><br />
+                            <li><a class="btn-floating grey darken-2 waves-effect waves-light p-i-cls" href="https://github.com/gabrieljerin"><i class="fa fa-github"></i></a></li><br />
                             <li><a class="btn-floating blue lighten-1 waves-effect waves-light p-i-cls" href="#!"><i class="fa fa-linkedin-square"></i></a></li>
                         </ul>
                     </div>
