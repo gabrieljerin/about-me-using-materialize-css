@@ -59,6 +59,7 @@ $(document).ready(function () {
     $('.button-collapse').sideNav();
     $(".card").addClass('animated');
     $(".card").addClass('fadeInLeft');
+    $("#first_name,#last_name,#email,#textarea1").val("");
     $(".loader").fadeOut(3000, function () {
         $(".main-wrapper").fadeIn(1000);
         $('.carousel').carousel({

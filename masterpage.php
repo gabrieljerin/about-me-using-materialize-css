@@ -372,23 +372,23 @@
                         <div class="row animatedParent">
                             <form class="col s12 animated fadeInLeft">
                                 <div class="row">
-                                    <div class="input-field col s6">
+                                    <div class="input-field col s6 color-cls">
                                         <input id="first_name" type="text" class="validate">
                                         <label for="first_name">First Name</label>
                                     </div>
-                                    <div class="input-field col s6">
+                                    <div class="input-field col s6 color-cls">
                                         <input id="last_name" type="text" class="validate">
                                         <label for="last_name">Last Name</label>
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="input-field col s12">
+                                    <div class="input-field col s12 color-cls">
                                         <input id="email" type="email" class="validate">
                                         <label for="email">Email</label>
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="input-field col s12">
+                                    <div class="input-field col s12 color-cls">
                                         <textarea id="textarea1" class="materialize-textarea"></textarea>
                                         <label for="textarea1">Message</label>
                                     </div>
