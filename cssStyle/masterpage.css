@@ -19,17 +19,17 @@ and open the template in the editor.
     margin-top: 8px;
 }
 .img-1{
-    background-image: url(../image/jim-rhoades-287664.jpg); 
+    background-image: url(../image/carlos-muza-84523.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
 }
 .img-2{
-    background-image: url(../image/jessie-bell-16912.jpg);
+    background-image: url(../image/kevin-364843.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 .img-3{
-    background-image: url(../image/marta-pawlik-37689.jpg);
+    background-image: url(../image/grovemade-239357.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -41,32 +41,32 @@ and open the template in the editor.
     padding: 2px;
 }
 .content-1 > h3{
-    color: white;
+    color: #6C6C6C;
     text-align: center;
     font-family: Raleway-Regular;
 }
 .content-1 ol > li{
-    color: white;
+    color: #6C6C6C;
     font-family: Raleway-Regular;
     font-size: 16px;
 }
 .content-2 > h3{
-    color: white;
+    color: #6C6C6C;
     font-family: Raleway-Regular;
     text-align: center;
 }
 .content-3 > h3{
-    color: white;
+    color: #6C6C6C;
     font-family: Raleway-Regular;
     text-align: center;
 }
 .content-4 > h3{
-    color: white;
+    color: #6C6C6C;
     font-family: Raleway-Regular;
     text-align: center;
 }
 .content-scan > h3{
-    color: white;
+    color: #6C6C6C;
     font-family: Raleway-Regular;
     text-align: center;
 }
@@ -109,7 +109,7 @@ and open the template in the editor.
 }
 .heading-cls{
     font-size: 21px;
-    color: white;
+    color: #6C6C6C;
     font-family: Raleway-Regular;
 }
 .p-i-cls{
@@ -129,4 +129,7 @@ and open the template in the editor.
 }
 .footer-copyright-cls{
     background-color: #21262A !important;
+}
+.color-cls{
+    color: #6C6C6C !important;
 }

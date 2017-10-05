@@ -20,7 +20,7 @@
 }
 .cube-folding span::before {
   content: '';
-  background-color: white;
+  background-color: #6C6C6C;
   position: absolute;
   left: 0;
   top: 0;
@@ -163,7 +163,7 @@
   font-size: 12px;
   letter-spacing: 0.1em;
   display: block;
-  color: white;
+  color: #6C6C6C;
   position: relative;
   top: 25px;
   z-index: 2;

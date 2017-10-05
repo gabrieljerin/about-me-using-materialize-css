@@ -9,13 +9,13 @@ and open the template in the editor.
 */
 
 .nav-background{
-    background-color: #24292E;
+    background-color: #ECECEC;
 }
 .nav-background-img{
   width:342px;  
 }
-.ul,li > a,i{
-    color: white !important;
+.ul,li > a{
+    color: #6C6C6C !important;
 }
 .side-nav li > a:hover{
     background-color: rgba(167, 167, 167, 0.1) !important;
@@ -31,7 +31,7 @@ and open the template in the editor.
     padding: 15px;
 }
 .address > p{
-    color: white;
+    color: #6C6C6C;
 }
 .social-cls{
     padding: 15px;

@@ -1,4 +1,6 @@
-
+<?php
+require_once './loader.php';
+?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -16,10 +18,7 @@
         <!--Let browser know website is optimized for mobile-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
-    <body style="background-color: #2B3137;">
-        <?php
-        require_once './loader.php';
-        ?>
+    <body style="background-color: #ECECEC;">
         <div class="main-wrapper" style="display: none;">
             <?php
             require_once './menu.php';
