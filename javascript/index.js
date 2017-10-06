@@ -3,7 +3,6 @@ $(document).ready(function () {
     $(this).scrollTop(0);
     scrollAnimation();
     hideOrShowGoTpTopBtn();
-    // scroll body to 0px on click
     scrollToTopBtn();
     setTimeout(autoplay, 2000);
     onPageLoad();
