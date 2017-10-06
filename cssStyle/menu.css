@@ -17,10 +17,12 @@ and open the template in the editor.
 .ul,li > a{
     color: #6C6C6C !important;
 }
-.hide-on-med-and-down,li > a:hover{
+.hide-on-med-and-down > li > a:hover{
     color: #2196F3 !important;
     transition: color 0.5s ease-out !important;
+    transition: border-bottom 0.1s ease-out !important;
     background-color: transparent !important;
+    border-bottom: 4px solid #2196F3 !important;
 }
 .side-nav li > a:hover{
     background-color: rgba(167, 167, 167, 0.1) !important;
@@ -46,7 +48,7 @@ and open the template in the editor.
     margin-left: 45px;
 }
 .top-nav{
-    height: 64px;
+    height: 68px;
 }
 .horizontal-menu-cls{
     margin-right: 52px;
