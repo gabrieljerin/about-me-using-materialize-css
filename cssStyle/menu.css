@@ -12,10 +12,15 @@ and open the template in the editor.
     background-color: #ECECEC;
 }
 .nav-background-img{
-  width:342px;  
+    width:342px;  
 }
 .ul,li > a{
     color: #6C6C6C !important;
+}
+.hide-on-med-and-down,li > a:hover{
+    color: #2196F3 !important;
+    transition: color 0.5s ease-out !important;
+    background-color: transparent !important;
 }
 .side-nav li > a:hover{
     background-color: rgba(167, 167, 167, 0.1) !important;

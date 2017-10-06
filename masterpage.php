@@ -311,7 +311,6 @@
                                                         <th>Course</th>
                                                         <th>Institute</th>
                                                         <th>Board</th>
-                                                        <th>Marks(%)/Grade</th>
                                                         <th>Year of pass out</th>
                                                     </tr>
                                                 </thead>
@@ -320,28 +319,24 @@
                                                         <td>Bsc(IT)</td>
                                                         <td>NIIT</td>
                                                         <td>Kuvempu University(Karnataka)</td>
-                                                        <td>57</td>
                                                         <td>2015</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Java-Android</td>
                                                         <td>C-DAC</td>
                                                         <td>C-DAC</td>
-                                                        <td>A</td>
                                                         <td>2016</td>
                                                     </tr>
                                                     <tr>
                                                         <td>12th</td>
                                                         <td>De.Paul College Kannur</td>
                                                         <td>Kerala State</td>
-                                                        <td>66</td>
                                                         <td>2011</td>
                                                     </tr>
                                                     <tr>
                                                         <td>10th</td>
                                                         <td>St.John The Baptist’s School</td>
                                                         <td>CBSE</td>
-                                                        <td>54</td>
                                                         <td>2008</td>
                                                     </tr>
                                                 </tbody>
@@ -414,7 +409,13 @@
             </div>
             <div class="footer-copyright grey lighten-1">
                 <div class="container color-cls">
-                    © 2017 Copyright Text
+                    &COPY; Copyright  <?php
+                    $startYear = 2017;
+                    $curYear = date('Y');
+                    echo $startYear . (($startYear != $curYear) ? " " . "-" . " " . $curYear : '');
+                    echo'.';
+                    ?>
+                    All rights reserved.
                     <a class="color-cls text-lighten-4 right">Version 0.1</a>
                 </div>
             </div>

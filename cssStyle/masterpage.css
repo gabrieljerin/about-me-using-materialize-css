@@ -133,3 +133,13 @@ and open the template in the editor.
 .color-cls{
     color: #6C6C6C !important;
 }
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+    color: #424242 !important;
+    margin-right: 24px;
+    -webkit-transition: color .3s ease;
+    transition: color .3s ease;
+    text-transform: uppercase;
+}
+.card .card-action a:hover:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+    color: #2196F3 !important;
+}
