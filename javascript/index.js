@@ -1,7 +1,32 @@
 $(".loader").show();
 $(document).ready(function () {
     $(this).scrollTop(0);
-
+    scrollAnimation();
+    hideOrShowGoTpTopBtn();
+    // scroll body to 0px on click
+    scrollToTopBtn();
+    setTimeout(autoplay, 2000);
+    onPageLoad();
+    $(".loader").fadeOut(3000, function () {
+        $(".main-wrapper").fadeIn(1000);
+        $('.carousel').carousel({
+            padding: 200,
+            fullWidth: true
+        });
+    });
+});
+function goTop(dom)
+{
+    $('body,html').animate({
+        scrollTop: 0
+    }, 1000);
+}
+function autoplay() {
+    $('.carousel').carousel('next');
+    setTimeout(autoplay, 3000);
+}
+function scrollAnimation()
+{
     $('a[href*="#"]')
             // Remove links that don't actually link to anything
             .not('[href="#"]')
@@ -38,7 +63,9 @@ $(document).ready(function () {
                     }
                 }
             });
-
+}
+function hideOrShowGoTpTopBtn()
+{
     $(window).scroll(function () {
         if ($(this).scrollTop() > 50) {
             $(".upward").removeClass('hide');
@@ -48,33 +75,20 @@ $(document).ready(function () {
             $(".upward").addClass('hide');
         }
     });
-    // scroll body to 0px on click
+}
+function scrollToTopBtn()
+{
     $(".upward").click(function () {
         $('body,html').animate({
             scrollTop: 0
         }, 1000);
         return false;
     });
-    setTimeout(autoplay, 2000);
+}
+function onPageLoad()
+{
     $('.button-collapse').sideNav();
     $(".card").addClass('animated');
     $(".card").addClass('fadeInLeft');
     $("#first_name,#last_name,#email,#textarea1").val("");
-    $(".loader").fadeOut(3000, function () {
-        $(".main-wrapper").fadeIn(1000);
-        $('.carousel').carousel({
-            padding: 200,
-            fullWidth: true
-        });
-    });
-});
-function goTop(dom)
-{
-    $('body,html').animate({
-        scrollTop: 0
-    }, 1000);
-}
-function autoplay() {
-    $('.carousel').carousel('next');
-    setTimeout(autoplay, 3000);
 }
