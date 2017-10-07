@@ -80,7 +80,7 @@ and open the template in the editor.
     font-size: 15px;
     font-family: Raleway-Regular;
 }
-#skill,#qualification,#portfolio,#footer,#scan{
+#skill,#qualification,#portfolio,#footer,#scan,.link-outline-cls{
     outline: none;
 }
 #skill:before{

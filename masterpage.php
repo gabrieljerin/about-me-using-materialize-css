@@ -227,7 +227,7 @@
                                                 </p>
                                             </div>
                                             <div class="card-action">
-                                                <a href="https://github.com/gabrieljerin/signIn-or-signUp-using-Firebase"><i class="fa fa-github p-i-cls"></i>&nbsp;https://github.com/gabrieljerin/signIn-or-signUp-using-Firebase</a>
+                                                <a class="link-outline-cls" href="https://github.com/gabrieljerin/signIn-or-signUp-using-Firebase"><i class="fa fa-github p-i-cls"></i>&nbsp;https://github.com/gabrieljerin/signIn-or-signUp-using-Firebase</a>
                                             </div>
                                         </div>
                                     </div>
@@ -242,7 +242,7 @@
                                                 </p>
                                             </div>
                                             <div class="card-action">
-                                                <a href="https://github.com/gabrieljerin/about-me-using-materialize-css"><i class="fa fa-github p-i-cls"></i>&nbsp;https://github.com/gabrieljerin/about-me-using-materialize-css</a>
+                                                <a class="link-outline-cls" href="https://github.com/gabrieljerin/about-me-using-materialize-css"><i class="fa fa-github p-i-cls"></i>&nbsp;https://github.com/gabrieljerin/about-me-using-materialize-css</a>
                                             </div>
                                         </div>
                                     </div>
@@ -257,7 +257,7 @@
                                                 </p>
                                             </div>
                                             <div class="card-action">
-                                                <a href="https://github.com/gabrieljerin/sign-in-form"><i class="fa fa-github p-i-cls"></i>&nbsp;https://github.com/gabrieljerin/sign-in-form</a>
+                                                <a class="link-outline-cls" href="https://github.com/gabrieljerin/sign-in-form"><i class="fa fa-github p-i-cls"></i>&nbsp;https://github.com/gabrieljerin/sign-in-form</a>
                                             </div>
                                         </div>
                                     </div>
