@@ -218,7 +218,7 @@
                         <div class="col s12 grey lighten-2 txt-align-span teal-div-cls">
                             <div class="row">
                                 <div class="col s12 animatedParent">
-                                    <span class="heading-cls">Sign in and Sign up using Firebase Auth</span>
+                                    <span class="heading-cls">Sign in and Sign up using Firebase Auth.</span>
                                     <div class="card horizontal grey lighten-3">
                                         <div class="card-stacked">
                                             <div class="card-content color-cls">
@@ -248,7 +248,7 @@
                                     </div>
                                 </div>
                                 <div class="col s12 animatedParent">
-                                    <span class="heading-cls">A Sign in Form</span>
+                                    <span class="heading-cls">A Sign in Form.</span>
                                     <div class="card horizontal grey lighten-3">
                                         <div class="card-stacked">
                                             <div class="card-content color-cls">

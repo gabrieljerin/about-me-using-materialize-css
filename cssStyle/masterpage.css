@@ -148,3 +148,11 @@ and open the template in the editor.
     background-color: #2196F3 !important;
     transition: color 0.5s ease-out !important;
 }
+@media screen and (max-width:992px){
+    .s9-width{
+        width: 100% !important;
+    }
+    .top-nav{
+        height: 57px !important;
+    }
+}

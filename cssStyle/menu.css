@@ -69,3 +69,11 @@ and open the template in the editor.
     height: 100%;
     width: 100%;
 }
+.responsive-cls{
+   width:300px !important; 
+}
+@media screen and (max-width:1280px){
+    .responsive-cls{
+        width: 283px !important;
+    }
+}

@@ -3,7 +3,7 @@
     <nav class="top-nav nav-background">
         <div class="container">
             <div class="nav-wrapper">
-                <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                <a href="#" data-activates="mobile-render" class="button-collapse blue-grey-text"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
                     <li><a onclick="goTop(this)">An Overview</a></li>
                     <li><a href="#skill">Technical Skills</a></li>
@@ -12,7 +12,7 @@
                     <li><a href="#qualification">Qualifications</a></li>
                     <li><a href="#footer">Stay Connected</a></li>
                 </ul>
-                <ul class="side-nav side-nav-cls" id="mobile-demo">
+                <ul class="side-nav side-nav-cls" id="mobile-render">
                     <li><a onclick="goTop(this)">An Overview</a></li>
                     <li><a href="#skill">Technical Skills</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
@@ -27,7 +27,7 @@
 <div class="row">
     <div class="col s3 s3-width">
         <!--SIDE NAV-->
-        <ul id="slide-out" class="side-nav nav-background fixed">
+        <ul id="slide-out" class="side-nav nav-background fixed responsive-cls">
             <li><div class="user-view">
                     <div class="background">
                         <img src="image/mat4.png" class="nav-background-img">
