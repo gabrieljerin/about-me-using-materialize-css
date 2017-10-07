@@ -44,6 +44,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-csharp"></i>.Net</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 60%"></div>
+                                            </div>
+                                            <p class="lan-icon">60%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -51,6 +55,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-php-alt"></i>Php</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 80%"></div>
+                                            </div>
+                                            <p class="lan-icon">80%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -58,6 +66,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-javascript"></i>Javascript</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 80%"></div>
+                                            </div>
+                                            <p class="lan-icon">80%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -65,6 +77,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-java"></i>Core Java</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 60%"></div>
+                                            </div>
+                                            <p class="lan-icon">60%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -79,6 +95,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-html5-alt"></i>Html</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 90%"></div>
+                                            </div>
+                                            <p class="lan-icon">90%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -86,6 +106,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-css3-alt"></i>Css</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 80%"></div>
+                                            </div>
+                                            <p class="lan-icon">80%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -93,6 +117,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-jquery"></i>jquery</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 80%"></div>
+                                            </div>
+                                            <p class="lan-icon">80%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -100,6 +128,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-bootstrap"></i>Bootstrap</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 75%"></div>
+                                            </div>
+                                            <p class="lan-icon">75%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -109,6 +141,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon">Ajax</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 80%"></div>
+                                            </div>
+                                            <p class="lan-icon">80%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -116,6 +152,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon">PDO</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 50%"></div>
+                                            </div>
+                                            <p class="lan-icon">50%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -123,6 +163,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon">Slim</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 60%"></div>
+                                            </div>
+                                            <p class="lan-icon">60%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -130,6 +174,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon">NOTORM</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 85%"></div>
+                                            </div>
+                                            <p class="lan-icon">85%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -139,6 +187,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-mysql-alt"></i>Mysql</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 90%"></div>
+                                            </div>
+                                            <p class="lan-icon">90%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -146,6 +198,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-mysql-alt"></i>Mysqli</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 90%"></div>
+                                            </div>
+                                            <p class="lan-icon">90%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -153,6 +209,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon">XML</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 50%"></div>
+                                            </div>
+                                            <p class="lan-icon">50%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -160,6 +220,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon">JSON</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 60%"></div>
+                                            </div>
+                                            <p class="lan-icon">60%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -174,6 +238,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-mssql"></i>Microsoft Sql Server</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 60%"></div>
+                                            </div>
+                                            <p class="lan-icon">60%</p>
                                         </div>
                                     </div>
                                 </div>
@@ -181,6 +249,10 @@
                                     <div class="card grey lighten-3">
                                         <div class="card-content color-cls">
                                             <p class="lan-icon"><i class="icon-mysql"></i>Mysql</p>
+                                            <div class="progress">
+                                                <div class="determinate blue" style="width: 90%"></div>
+                                            </div>
+                                            <p class="lan-icon">90%</p>
                                         </div>
                                     </div>
                                 </div>
