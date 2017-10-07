@@ -6,6 +6,7 @@ $(document).ready(function () {
     scrollToTopBtn();
     setTimeout(autoplay, 2000);
     onPageLoad();
+    blockSourceCode();
     $(".loader").fadeOut(3000, function () {
         $(".main-wrapper").fadeIn(1000);
         $('.carousel').carousel({
@@ -90,4 +91,10 @@ function onPageLoad()
     $(".card").addClass('animated');
     $(".card").addClass('fadeInLeft');
     $("#first_name,#last_name,#email,#textarea1").val("");
+}
+function blockSourceCode()
+{
+    $(document).bind("contextmenu", function (e) {
+        e.preventDefault();
+    });
 }
