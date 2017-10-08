@@ -22,9 +22,9 @@ function send_mail() {
     $headers = 'From: ' . $_POST['email']. "\r\n" .
             'Reply-To: ' . $_POST['email'] . "\r\n" .
             'X-Mailer: PHP/' . phpversion();
-    mail($email_to, $email_subject, $email_message, $headers);
+    $retval=mail($email_to, $email_subject, $email_message, $headers);
     header('Content-type: application/json');
-    echo json_encode(1);
+    echo json_encode($retval);
 }
 ?>
 

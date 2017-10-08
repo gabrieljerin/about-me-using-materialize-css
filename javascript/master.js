@@ -10,6 +10,8 @@ function sendMail(dom)
     {
         return false;
     }
+    $("#prog").removeClass("hide");
+    $("#sendmail").addClass('hide');
     var url = "./Ajax/ajax-handler.php?function=sendMail";
     $.ajax({
         type: 'POST',
@@ -18,10 +20,19 @@ function sendMail(dom)
         data: $("#emailMeFrm").serialize(),
         success: function (data)
         {
-            if (data == 1)
+            console.log(data);
+            if (data == true)
             {
                 Materialize.toast("Message Sent Successfully.", 3000);
+                $("#prog").addClass("hide");
+                $("#sendmail").removeClass('hide');
                 $("#first_name,#last_name,#email,#textarea1").val("");
+                $("#first_name,#last_name,#email,#textarea1").removeClass("valid");
+                $("#fname,#lname,#emailId,#comment").removeClass("active");
+            } else {
+                Materialize.toast("Error Occured.Try again later.", 3000);
+                $("#prog").addClass("hide");
+                $("#sendmail").removeClass('hide');
             }
         }
     })

@@ -441,28 +441,31 @@
                                 <div class="row">
                                     <div class="input-field col s6 color-cls">
                                         <input name="first_name" id="first_name" type="text" class="validate">
-                                        <label for="first_name">First Name</label>
+                                        <label id="fname" for="first_name">First Name</label>
                                     </div>
                                     <div class="input-field col s6 color-cls">
                                         <input name="last_name" id="last_name" type="text" class="validate">
-                                        <label for="last_name">Last Name</label>
+                                        <label id="lname" for="last_name">Last Name</label>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="input-field col s12 color-cls">
                                         <input name="email" id="email" type="email" class="validate">
-                                        <label for="email" data-error="Enter valid Email address.">Email</label>
+                                        <label id="emailId" for="email" data-error="Enter valid Email address.">Email</label>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="input-field col s12 color-cls">
                                         <textarea name="message" id="textarea1" class="materialize-textarea"></textarea>
-                                        <label for="textarea1">Message</label>
+                                        <label id="comment" for="textarea1">Message</label>
                                     </div>
                                 </div>
                                 <div class="row">
+                                    <div id="prog" class="progress hide">
+                                        <div class="indeterminate blue"></div>
+                                    </div>
                                     <div class="col s12 m3 l2">
-                                        <button type="button" class="btn waves-effect waves-light blue" onclick="sendMail(this)">Submit</button>
+                                        <button id="sendmail" type="button" class="btn waves-effect waves-light blue" onclick="sendMail(this)">Submit</button>
                                     </div>
                                 </div>
                             </form>

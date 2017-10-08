@@ -46,7 +46,7 @@
                 <p>PHONE: 9656332581</p>
             </div>
             <div class="download-cls">
-                <button type="button" class="btn waves-effect waves-light blue"><i class="material-icons right">file_download</i>Download CV</button>
+                <a href="./resume/Resume_Alex.pdf" class="btn waves-effect waves-light blue"><i class="material-icons right">file_download</i>Download CV</a>
             </div>
         </ul>
         <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
