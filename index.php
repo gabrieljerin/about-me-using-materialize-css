@@ -31,5 +31,6 @@
         <script src="Script/materialize.min.js" type="text/javascript"></script>
         <script src="Script/css3-animate-it.js" type="text/javascript"></script>
         <script src="javascript/index.js" type="text/javascript"></script>
+        <script src="javascript/master.js" type="text/javascript"></script>
     </body>
 </html>

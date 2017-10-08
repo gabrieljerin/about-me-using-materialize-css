@@ -437,32 +437,32 @@
                     <div class="col l6 s12">
                         <h5 class="color-cls qal-tbl-font">Email Me</h5>
                         <div class="row animatedParent">
-                            <form class="col s12 animated fadeInLeft">
+                            <form id="emailMeFrm" class="col s12 animated fadeInLeft">
                                 <div class="row">
                                     <div class="input-field col s6 color-cls">
-                                        <input id="first_name" type="text" class="validate">
+                                        <input name="first_name" id="first_name" type="text" class="validate">
                                         <label for="first_name">First Name</label>
                                     </div>
                                     <div class="input-field col s6 color-cls">
-                                        <input id="last_name" type="text" class="validate">
+                                        <input name="last_name" id="last_name" type="text" class="validate">
                                         <label for="last_name">Last Name</label>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="input-field col s12 color-cls">
-                                        <input id="email" type="email" class="validate">
-                                        <label for="email">Email</label>
+                                        <input name="email" id="email" type="email" class="validate">
+                                        <label for="email" data-error="Enter valid Email address.">Email</label>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="input-field col s12 color-cls">
-                                        <textarea id="textarea1" class="materialize-textarea"></textarea>
+                                        <textarea name="message" id="textarea1" class="materialize-textarea"></textarea>
                                         <label for="textarea1">Message</label>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col s12 m3 l2">
-                                        <button type="button" class="btn waves-effect waves-light blue">Submit</button>
+                                        <button type="button" class="btn waves-effect waves-light blue" onclick="sendMail(this)">Submit</button>
                                     </div>
                                 </div>
                             </form>
