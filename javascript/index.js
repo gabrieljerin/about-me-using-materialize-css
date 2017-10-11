@@ -1,18 +1,16 @@
-$(".loader").show();
 $(document).ready(function () {
     $(this).scrollTop(0);
     scrollAnimation();
     hideOrShowGoTpTopBtn();
     scrollToTopBtn();
-    setTimeout(autoplay, 2000);
+    setTimeout(autoplay, 3000);
     onPageLoad();
     blockSourceCode();
-    $(".loader").fadeOut(3000, function () {
-        $(".main-wrapper").fadeIn(1000);
-        $('.carousel').carousel({
-            padding: 200,
-            fullWidth: true
-        });
+    $(".loader").fadeOut();
+    $(".main-wrapper").fadeIn();
+    $('.carousel').carousel({
+        padding: 200,
+        fullWidth: true
     });
 });
 function goTop(dom)
