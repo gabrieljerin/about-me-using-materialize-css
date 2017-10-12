@@ -72,6 +72,9 @@ and open the template in the editor.
 .responsive-cls{
    width:300px !important; 
 }
+.user-color-cls{
+    color: #141414 !important;
+}
 @media screen and (max-width:1280px){
     .responsive-cls{
         width: 283px !important;
