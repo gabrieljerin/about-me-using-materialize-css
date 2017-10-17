@@ -8,10 +8,11 @@ $(document).ready(function () {
     blockSourceCode();
     $(".loader").fadeOut();
     $(".main-wrapper").fadeIn();
-    $('.carousel').carousel({
+    $('#carouselLarge').carousel({
         padding: 200,
         fullWidth: true
     });
+    $('#carouselSmall').carousel();
 });
 function goTop(dom)
 {
@@ -20,7 +21,8 @@ function goTop(dom)
     }, 1000);
 }
 function autoplay() {
-    $('.carousel').carousel('next');
+    $('#carouselLarge').carousel('next');
+    $('#carouselSmall').carousel('next');
     setTimeout(autoplay, 3000);
 }
 function scrollAnimation()

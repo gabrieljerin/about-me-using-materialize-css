@@ -6,17 +6,31 @@
         <div>
             <div id="overview">
                 <div class="content">
-                    <div class="carousel carousel-slider center" data-indicators="true">
+                    <div id="carouselLarge" class="carousel carousel-slider center hide-on-small-and-down" data-indicators="true">
                         <div class="carousel-fixed-item center">
                             <a href="#skill" class="btn waves-effect waves-light blue white-text">Get Started</a>
                         </div>
-                        <div class="carousel-item white-text img-1" href="#one!">
+                        <div class="carousel-item white-text img-1 carousel-item-lg" href="#one!">
                             <p>Man is still the most extraordinary computer of all.</p>
                         </div>
-                        <div class="carousel-item white-text img-2" href="#two!">
+                        <div class="carousel-item white-text img-2 carousel-item-lg" href="#two!">
                             <p>It's still magic even if you know how it's done.</p>
                         </div>
-                        <div class="carousel-item white-text img-3" href="#three!">
+                        <div class="carousel-item white-text img-3 carousel-item-lg" href="#three!">
+                            <p>First, solve the problem. Then, write the code.</p>
+                        </div>
+                    </div>
+                    <div id="carouselSmall" class="carousel hide-on-med-and-up">
+                        <div class="carousel-fixed-item center">
+                            <a href="#skill" class="btn waves-effect waves-light blue white-text">Get Started</a>
+                        </div>
+                        <div class="carousel-item white-text img-1 carousel-item-sm" href="#one!">
+                            <p>Man is still the most extraordinary computer of all.</p>
+                        </div>
+                        <div class="carousel-item white-text img-2 carousel-item-sm" href="#two!">
+                            <p>It's still magic even if you know how it's done.</p>
+                        </div>
+                        <div class="carousel-item white-text img-3 carousel-item-sm" href="#three!">
                             <p>First, solve the problem. Then, write the code.</p>
                         </div>
                     </div>
@@ -35,7 +49,7 @@
             <div class="divider"></div>
             <div id="skill">
                 <div class="content-2">
-                    <h3>Technical Skill</h3>
+                    <h3>Technical Skills</h3>
                     <div class="row">
                         <div class="col s12 grey lighten-2 teal-div-cls">
                             <span class="heading-cls"><i class="fa fa-language" aria-hidden="true"></i>&nbsp;Languages</span>

@@ -34,9 +34,14 @@ and open the template in the editor.
     background-size: cover;
     background-repeat: no-repeat;
 }
-.carousel-item > p{
+.carousel-item-lg > p{
     font-family: Raleway-Regular !important;
     font-size: 36px !important;
+}
+.carousel-item-sm > p{
+    font-family: Raleway-Regular !important;
+    font-size: 20px !important;
+    text-align: center !important;
 }
 .content-1{
     padding: 2px;
