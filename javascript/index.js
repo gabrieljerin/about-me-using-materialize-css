@@ -13,6 +13,9 @@ $(document).ready(function () {
         fullWidth: true
     });
     $('#carouselSmall').carousel();
+    $('.button-collapse').sideNav({
+      closeOnClick: true 
+    });
 });
 function goTop(dom)
 {
