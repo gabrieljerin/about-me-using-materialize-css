@@ -4,7 +4,6 @@ $(document).ready(function () {
     hideOrShowGoTpTopBtn();
     scrollToTopBtn();
     setTimeout(autoplay, 3000);
-    onPageLoad();
     blockSourceCode();
     $(".loader").fadeOut();
     $(".main-wrapper").fadeIn();
@@ -16,6 +15,7 @@ $(document).ready(function () {
     $('.button-collapse').sideNav({
       closeOnClick: true 
     });
+    onPageLoad();
 });
 function goTop(dom)
 {

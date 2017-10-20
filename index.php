@@ -12,7 +12,11 @@
         <link href="./cssStyle/menu.css" rel="stylesheet">
         <link href="./cssStyle/masterpage.css" rel="stylesheet">
         <link href="./cssStyle/loader.css" rel="stylesheet">
-
+        <script src="Script/jquery-3.1.1.min.js" type="text/javascript"></script>
+        <script src="Script/materialize.min.js" type="text/javascript"></script>
+        
+        <script src="javascript/index.js" type="text/javascript"></script>
+        <script src="javascript/master.js" type="text/javascript"></script>
         <!--Let browser know website is optimized for mobile-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
@@ -27,10 +31,6 @@
                 ?>
             </div>
         </div>
-        <script src="Script/jquery-3.1.1.min.js" type="text/javascript"></script>
-        <script src="Script/materialize.min.js" type="text/javascript"></script>
         <script src="Script/css3-animate-it.js" type="text/javascript"></script>
-        <script src="javascript/index.js" type="text/javascript"></script>
-        <script src="javascript/master.js" type="text/javascript"></script>
     </body>
 </html>
