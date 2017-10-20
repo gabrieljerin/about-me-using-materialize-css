@@ -78,6 +78,7 @@ and open the template in the editor.
 }
 .user-color-cls{
     color: #141414 !important;
+    font-family: Raleway-Regular;
 }
 @media screen and (max-width:1280px){
     .responsive-cls{
