@@ -30,7 +30,7 @@
         <ul id="slide-out" class="side-nav nav-background fixed responsive-cls">
             <li><div class="user-view">
                     <div class="background">
-                        <img src="image/crew-22256.jpg" class="nav-background-img">
+                        <img src="image/scott-webb-195100.jpg" class="nav-background-img">
                     </div>
                     <a><img class="circle materialboxed" src="image/_20171005_203257.JPG"></a>
                     <a><span class="user-color-cls name">Alex Oommen</span></a>

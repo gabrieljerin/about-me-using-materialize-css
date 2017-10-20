@@ -27,12 +27,16 @@ and open the template in the editor.
 .side-nav li > a:hover{
     background-color: rgba(167, 167, 167, 0.1) !important;
 }
+.side-nav-cls{
+    background-color: #ECECEC !important;
+}
 .side-nav-cls li > a{
-    color: black !important;
+    color: #6C6C6C !important;
 }
 .side-nav-cls li > a:hover{
-    background-color: grey !important;
+    background-color: #2196F3 !important;
     color: white !important;
+    transition: background-color 1s ease-out !important;
 }
 .address{
     padding: 15px;
