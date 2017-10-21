@@ -33,7 +33,7 @@
                     <div class="background">
                         <img src="image/scott-webb-195100.jpg" class="nav-background-img">
                     </div>
-                    <a><img class="circle materialboxed" src="image/_20171005_203257.JPG"></a>
+                    <a><img class="circle" src="image/_20171005_203257.JPG"></a>
                     <a><span class="user-color-cls name"><b>Alex Oommen</b></span></a>
                     <a><span class="user-color-cls email"><b>jerin_alex@hotmail.com</b></span></a>
                 </div></li>

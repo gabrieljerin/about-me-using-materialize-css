@@ -52,11 +52,20 @@ and open the template in the editor.
     font-family: Raleway-Regular;
 }
 .prewords-container{
-    margin-top: -25px;
+    margin-top: -9px;
+    height: 160px;
 }
 .profile-preword{
     color: #6C6C6C;
     text-align: center;
+    font-family: Raleway-Regular;
+    margin-top: 30px;
+}
+.profile-image-cls{
+    height: 80px;
+}
+.chat-bubble-txt{
+    color: white;
     font-family: Raleway-Regular;
 }
 .content-1 ol > li{
@@ -160,6 +169,39 @@ and open the template in the editor.
 .social-icons > li > a:hover{
     background-color: #2196F3 !important;
     transition: color 0.5s ease-out !important;
+}
+.talk-bubble {
+    margin: auto;
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: auto;
+    background-color: #6C6C6C;
+}
+/*Right triangle, placed bottom left side slightly in*/
+.tri-right.border.btm-left:before {
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: -8px;
+    right: auto;
+    top: auto;
+    bottom: -40px;
+    border: 32px solid;
+    border-color: transparent transparent transparent #666;
+}
+.tri-right.btm-left:after{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0px;
+    right: auto;
+    top: auto;
+    bottom: -20px;
+    border: 22px solid;
+    border-color: transparent transparent transparent #6C6C6C;
 }
 @media screen and (max-width:992px){
     .s9-width{

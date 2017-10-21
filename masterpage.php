@@ -20,9 +20,15 @@
                             <p>First, solve the problem. Then, write the code.</p>
                         </div>
                     </div>
-                    <div class="prewords-container center hide-on-med-and-up">
-                        <h2 class="profile-preword">Hello,</h2>
-                        <h4 class="profile-preword">I'm Alex Oommen</h4>
+                    <div class="profile-container hide-on-med-and-up">
+                        <div class="prewords-container center">
+                            <div class="talk-bubble tri-right btm-left">
+                                <div class="talktext">
+                                    <h3 class="chat-bubble-txt">Hello,</h3>
+                                </div>
+                            </div>
+                            <h5 class="profile-preword">I'm Alex Oommen</h5>
+                        </div>
                     </div>
                     <div class="content-1 grey lighten-2">
                         <h3>An Overview</h3>
