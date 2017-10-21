@@ -19,6 +19,7 @@
                     <li><a href="#scan">Organisational Scan</a></li>
                     <li><a href="#qualification">Qualifications</a></li>
                     <li><a href="#footer">Stay Connected</a></li>
+                    <li><a href="./resume/Resume_Alex.pdf" class="btn waves-effect waves-light blue hide download-btn-sm-d"><i class="material-icons right download-btn-sm-d">file_download</i>Download CV</a></li>
                 </ul>
             </div>
         </div>
@@ -46,7 +47,7 @@
                 <p>PHONE: 9656332581</p>
             </div>
             <div class="download-cls">
-                <a href="./resume/Resume_Alex.pdf" class="btn waves-effect waves-light blue"><i class="material-icons right">file_download</i>Download CV</a>
+                <a id="downloadBtn" href="./resume/Resume_Alex.pdf" class="btn waves-effect waves-light blue"><i class="material-icons right">file_download</i>Download CV</a>
             </div>
         </ul>
         <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>

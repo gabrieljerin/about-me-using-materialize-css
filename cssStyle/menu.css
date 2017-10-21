@@ -30,9 +30,6 @@ and open the template in the editor.
 .side-nav-cls{
     background-color: #ECECEC !important;
 }
-.side-nav-cls li > a{
-    color: #6C6C6C !important;
-}
 .side-nav-cls li > a:hover{
     background-color: #2196F3 !important;
     color: white !important;
@@ -80,8 +77,19 @@ and open the template in the editor.
     color: #424242 !important;
     font-family: Raleway-Regular;
 }
+.download-btn-sm-d{
+    color: white !important;
+}
 @media screen and (max-width:1280px){
     .responsive-cls{
         width: 283px !important;
+    }
+}
+@media screen and (max-height:500px){
+    #downloadBtn{
+        display:none;
+    }
+    .download-btn-sm-d{
+        display: block !important;
     }
 }
