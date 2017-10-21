@@ -5,17 +5,18 @@ $(document).ready(function () {
     scrollToTopBtn();
     setTimeout(autoplay, 3000);
     blockSourceCode();
-    $(".loader").fadeOut();
-    $(".main-wrapper").fadeIn();
-    $('#carouselLarge').carousel({
-        padding: 200,
-        fullWidth: true
-    });
-    $('#carouselSmall').carousel();
     $('.button-collapse').sideNav({
-      closeOnClick: true 
+        closeOnClick: true
     });
     onPageLoad();
+    $(".loader").fadeOut(5000, function () {
+        $(".main-wrapper").fadeIn(1000);
+        $('#carouselLarge').carousel({
+            padding: 200,
+            fullWidth: true
+        });
+        $('#carouselSmall').carousel();
+    });
 });
 function goTop(dom)
 {
