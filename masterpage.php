@@ -20,19 +20,9 @@
                             <p>First, solve the problem. Then, write the code.</p>
                         </div>
                     </div>
-                    <div id="carouselSmall" class="carousel hide-on-med-and-up">
-                        <div class="carousel-fixed-item center">
-                            <a href="#skill" class="btn waves-effect waves-light blue white-text">Get Started</a>
-                        </div>
-                        <div class="carousel-item white-text img-1 carousel-item-sm" href="#one!">
-                            <p>Man is still the most extraordinary computer of all.</p>
-                        </div>
-                        <div class="carousel-item white-text img-2 carousel-item-sm" href="#two!">
-                            <p>It's still magic even if you know how it's done.</p>
-                        </div>
-                        <div class="carousel-item white-text img-3 carousel-item-sm" href="#three!">
-                            <p>First, solve the problem. Then, write the code.</p>
-                        </div>
+                    <div class="prewords-container center hide-on-med-and-up">
+                        <h2 class="profile-preword">Hello,</h2>
+                        <h4 class="profile-preword">I'm Alex Oommen</h4>
                     </div>
                     <div class="content-1 grey lighten-2">
                         <h3>An Overview</h3>

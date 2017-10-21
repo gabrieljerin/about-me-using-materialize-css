@@ -51,6 +51,14 @@ and open the template in the editor.
     text-align: center;
     font-family: Raleway-Regular;
 }
+.prewords-container{
+    margin-top: -25px;
+}
+.profile-preword{
+    color: #6C6C6C;
+    text-align: center;
+    font-family: Raleway-Regular;
+}
 .content-1 ol > li{
     color: #6C6C6C;
     font-family: Raleway-Regular;
