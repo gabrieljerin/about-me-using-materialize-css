@@ -33,8 +33,8 @@
                         <img src="image/scott-webb-195100.jpg" class="nav-background-img">
                     </div>
                     <a><img class="circle materialboxed" src="image/_20171005_203257.JPG"></a>
-                    <a><span class="user-color-cls name">Alex Oommen</span></a>
-                    <a><span class="user-color-cls email">jerin_alex@hotmail.com</span></a>
+                    <a><span class="user-color-cls name"><b>Alex Oommen</b></span></a>
+                    <a><span class="user-color-cls email"><b>jerin_alex@hotmail.com</b></span></a>
                 </div></li>
             <li><a class="subheader"><i class="fa fa-address-card" aria-hidden="true"></i>Address</a></li>
             <li><div class="divider"></div></li>
