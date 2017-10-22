@@ -67,6 +67,7 @@ and open the template in the editor.
 .chat-bubble-txt{
     color: white;
     font-family: Raleway-Regular;
+    font-size: 30px;
 }
 .content-1 ol > li{
     color: #6C6C6C;
@@ -174,11 +175,13 @@ and open the template in the editor.
     margin: auto;
     display: inline-block;
     position: relative;
-    width: 200px;
-    height: auto;
-    background-color: #6C6C6C;
+    width: 150px;
+    height: 70px;
+    background-color: #2196F3;
+    border-radius: 2px;
+    box-shadow: 3px 3px 6px #272727;
+    margin-right: 39px;
 }
-/*Right triangle, placed bottom left side slightly in*/
 .tri-right.border.btm-left:before {
     content: ' ';
     position: absolute;
@@ -201,7 +204,7 @@ and open the template in the editor.
     top: auto;
     bottom: -20px;
     border: 22px solid;
-    border-color: transparent transparent transparent #6C6C6C;
+    border-color: transparent transparent transparent #2196F3;
 }
 @media screen and (max-width:992px){
     .s9-width{
