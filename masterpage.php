@@ -27,7 +27,7 @@
                                     <h3 class="chat-bubble-txt">Hello,</h3>
                                 </div>
                             </div>
-                            <h5 class="profile-preword">I'm Alex Oommen</h5>
+                            <h5 class="profile-preword">I'm <b>Alex Oommen</b></h5>
                         </div>
                     </div>
                     <div class="content-1 grey lighten-2">
